@@ -1,0 +1,19 @@
+{
+  "service" : true,
+  "password" : 1000,
+  "message" : "",
+  "site" : [
+    {
+      "title" : "기본사이트",
+      "url" : "https://raw.githubusercontent.com/SamBoKing/Repository/master/site_default.json"
+    },
+    {
+      "title" : "VIP사이트",
+      "url" : "https://raw.githubusercontent.com/SamBoKing/Repository/master/site_vip.json"
+    },
+    {
+      "title" : "19금사이트",
+      "url" : "https://raw.githubusercontent.com/SamBoKing/Repository/master/site_19.json"
+    }
+  ]
+}
