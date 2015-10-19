@@ -1,7 +1,6 @@
 {
   "Categorys" : [
     {
-      "id" : "0",
       "title" : "쇼핑몰",
       "Groups" : [
         {
@@ -70,7 +69,6 @@
       ]
     },
     {
-      "id" : "1",
       "title" : "쇼핑",
       "Groups" : [
         {
