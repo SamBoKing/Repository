@@ -30,19 +30,27 @@
           ]
         },
         {
-          "title" : "다음",
+          "title" : "남성쇼핑몰",
           "Webs" : [
             {
-              "title" : "다음",
-              "url" : "http://m.daum.net"
+              "title" : "티아그",
+              "url" : "http://m.tiag.co.kr/"
             },
             {
-              "title" : "어쿠스틱라이프",
-              "url" : "http://m.webtoon.daum.net/m/webtoon/view/acoustic"
+              "title" : "에이홀름",
+              "url" : "http://www.aholm.co.kr/m/index.html"
             },
             {
-              "title" : "웹툰리그",
-              "url" : "http://m.webtoon.daum.net/m/webtoon/view/league"
+              "title" : "에이핏",
+              "url" : "http://www.afit.co.kr/m/index.html"
+            },
+            {
+              "title" : "레드옴므",
+              "url" : "http://m.redhomme.com/"
+            },
+            {
+              "title" : "로토코",
+              "url" : "http://m.lotoco.com/"
             }
           ]
         },
