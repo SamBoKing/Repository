@@ -7,24 +7,128 @@
           "title" : "여성쇼핑몰",
           "Webs" : [
             {
-              "title" : "라이크댓",
-              "url" : "http://m.like-that.co.kr/"
+              "title" : "다홍",
+              "url" : "http://m.dahong.co.kr/"
             },
             {
-              "title" : "21마켓",
-              "url" : "http://m.the21market.co.kr/"
+              "title" : "스타일베리",
+              "url" : "http://styleberry.co.kr/m/index.html"
             },
             {
-              "title" : "레이카맨션",
-              "url" : "http://m.leika.co.kr/"
+              "title" : "아카",
+              "url" : "http://aka.co.kr/m/index.html"
             },
             {
-              "title" : "프롬비기닝",
-              "url" : "http://beginning.kr/m/main.html"
+              "title" : "럭키걸",
+              "url" : "http://m.luckygirl.kr/"
             },
             {
-              "title" : "모스빈",
-              "url" : "http://mossbean.com/m/index.html"
+              "title" : "난닝구",
+              "url" : "http://naning9.com/m/index.html"
+            },
+            {
+              "title" : "윙스몰",
+              "url" : "http://m.wingsmall.co.kr/"
+            },
+            {
+              "title" : "11AM",
+              "url" : "http://m.11am.co.kr/"
+            },
+            {
+              "title" : "브론시",
+              "url" : "http://m.broncy.co.kr/"
+            },
+            {
+              "title" : "윙스걸",
+              "url" : "http://m.wingsgirl.co.kr/"
+            },
+            {
+              "title" : "주줌",
+              "url" : "http://zoozoom.co.kr/m/index.html"
+            },
+            {
+              "title" : "시크폭스",
+              "url" : "http://chicfox.co.kr/m/index.html"
+            },
+            {
+              "title" : "마이블린",
+              "url" : "http://m.maiblin.com/"
+            },
+            {
+              "title" : "그랜드피드",
+              "url" : "http://m.grandfid.com/"
+            },
+            {
+              "title" : "사뿐",
+              "url" : "http://sappun.co.kr/m/index.html"
+            },
+            {
+              "title" : "스타일난다",
+              "url" : "http://m.stylenanda.com/mobile/Main.php"
+            },
+            {
+              "title" : "쿠기걸",
+              "url" : "http://kugigirl.co.kr/m/index.html"
+            },
+            {
+              "title" : "미아마스빈",
+              "url" : "http://m.miamasvin.co.kr/"
+            },
+            {
+              "title" : "아이엠유리",
+              "url" : "http://m.iamyurii.cafe24.com/"
+            },
+            {
+              "title" : "코이",
+              "url" : "http://m.coii.kr/"
+            },
+            {
+              "title" : "에바주니",
+              "url" : "http://evajunie.com/m/index.html"
+            },
+            {
+              "title" : "모코블링",
+              "url" : "http://mocobling.com/m/index.html"
+            },
+            {
+              "title" : "아우라제이",
+              "url" : "http://m.aura-j.kr/"
+            },
+            {
+              "title" : "뽀람",
+              "url" : "bboram.co.kr/m/index.html"
+            },
+            {
+              "title" : "아마이",
+              "url" : "http://amai.co.kr/m/index.html"
+            },
+            {
+              "title" : "후즈걸",
+              "url" : "http://whosgirl.co.kr/m/index.html"
+            },
+            {
+              "title" : "투에프비",
+              "url" : "http://m.2fb.co.kr/"
+            },
+            {
+              "title" : "캉스",
+              "url" : "http://kangs.co.kr/m/index.html"
+            },
+            {
+              "title" : "레미떼",
+              "url" : "http://m.lemite.com/index.html"
+            },
+            {
+              "title" : "핑크베니",
+              "url" : "http://pinkbenny.co.kr/m/index.html"
+            },
+            {
+              "title" : "팬지폴로라",
+              "url" : "http://flora2.co.kr/m/index.html"
+            },
+            {
+              "title" : "오핀",
+              "url" : "http://opin.co.kr/m/index.html"
             }
           ]
         },
