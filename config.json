@@ -1,7 +1,7 @@
 {
   "service" : true,
   "password" : "1234567",
-  "ad_random" : 10,
+  "ad_random" : 3,
   "notice" : "http://htmlpreview.github.io/?https://raw.githubusercontent.com/SamBoKing/Repository/master/notice.html",
   "message" : "",
   "Sites" : [
