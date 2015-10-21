@@ -1,6 +1,7 @@
 {
   "service" : true,
   "password" : "1234567",
+  "key" : "SamBoKing",
   "ad_random" : 0,
   "notice" : "http://htmlpreview.github.io/?https://raw.githubusercontent.com/SamBoKing/Repository/master/notice.html",
   "message" : "",
