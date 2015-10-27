@@ -1,6 +1,57 @@
 {
   "Categorys" : [
     {
+      "title" : "웹툰",
+      "Groups" : [
+        {
+          "title" : "네이버",
+          "hot" : true,
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "레진",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "네이트",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "티스토어",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "탑툰",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "머니투데이",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "배틀코믹스",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "알파카",
+          "Webs" : [
+          ]
+        },
+        {
+          "title" : "케이코믹스",
+          "Webs" : [
+          ]
+        }
+      ]
+    },
+    {
       "title" : "쇼핑몰",
       "Groups" : [
         {
