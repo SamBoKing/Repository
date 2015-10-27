@@ -2,6 +2,7 @@
   "Categorys" : [
     {
       "title" : "웹툰",
+      "hot" : true,
       "Groups" : [
         {
           "title" : "네이버",
