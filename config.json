@@ -3,7 +3,8 @@
   "password" : "1234567",
   "key" : "SamBoKing",
   "ad_random" : 10,
-  "about" : "몽땅모아 화이팅!!!",
+  "about_title" : "몽땅모아 대하여",
+  "about_message" : "몽땅모아 화이팅!!!",
   "message" : "",
   "Sites" : [
     {
