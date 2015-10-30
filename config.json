@@ -3,8 +3,8 @@
   "password" : "1234567",
   "key" : "SamBoKing",
   "ad_random" : 10,
-  "about_title" : "몽땅모아 대하여",
-  "about_message" : "몽땅모아 화이팅!!!",
+  "about_title" : "몽땅모아에 대하여",
+  "about_message" : "개발자 : SamBoKing\n이메일 : kjs.mobile.app@gmail.com\n\n많은 이용 바랍니다.",
   "message" : "",
   "Sites" : [
     {
