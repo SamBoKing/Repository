@@ -1382,6 +1382,28 @@
           ]
         }
       ]
+    },
+    {
+      "title": "게임",
+      "Groups": [
+        {
+          "title": "리그오브레전드",
+          "Webs": [
+            {
+              "title": "전적검색 OP.GG",
+              "url": "http://op.gg/"
+            },
+            {
+              "title": "전적검색 FOW.KR",
+              "url": "http://fow.kr/"
+            },
+            {
+              "title": "전적검색 IPLOL.NET",
+              "url": "http://iplol.co.kr/m.jsp"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
