@@ -2,11 +2,11 @@
   "Categorys" : [
     {
       "title" : "웹툰",
-      "hot" : true,
+      "hot" : false,
       "Groups" : [
         {
           "title" : "네이버",
-          "hot" : true,
+          "hot" : false,
           "Webs" : [
             {
               "title" : "남과 여",
