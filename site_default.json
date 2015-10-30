@@ -1390,8 +1390,12 @@
           "title": "리그오브레전드",
           "Webs": [
             {
-              "title": "LOL홈페이지",
+              "title": "리그오브레전드 홈페이지",
               "url": "https://kr.leagueoflegends.com/"
+            },
+            {
+              "title": "리그오브레전드 인벤",
+              "url" : "http://m.inven.co.kr/lol/"
             },
             {
               "title": "전적검색 OP.GG",
