@@ -6,7 +6,6 @@
       "Groups": [
         {
           "title": "네이버",
-          "hot": false,
           "Webs": [
             {
               "title": "네이버 웹툰 인기급상승",
@@ -19,6 +18,27 @@
             {
               "title": "네이버 웹툰 베스트도전",
               "url": "http://m.comic.naver.com/bestChallenge/genre.nhn"
+            }
+          ]
+        },
+        {
+          "title": "다음",
+          "Webs": [
+            {
+              "title": "다음 웹툰 업데이트순",
+              "url": "http://m.webtoon.daum.net/m/"
+            },
+            {
+              "title": "다음 웹툰 인기순",
+              "url": "http://m.webtoon.daum.net/m/#type=viewList"
+            },
+            {
+              "title": "다음 웹툰 평점순",
+              "url": "http://m.webtoon.daum.net/m/#type=scoreList"
+            },
+            {
+              "title": "다음 웹툰 리그",
+              "url": "http://m.webtoon.daum.net/m/league/"
             }
           ]
         },
