@@ -9,6 +9,10 @@
           "hot" : true,
           "Webs": [
             {
+              "title": "어쿠스틱라이프(다음 추천)",
+              "url": "http://m.webtoon.daum.net/m/webtoon/view/acoustic"
+            },
+            {
               "title": "미생(다음 추천)",
               "url": "http://m.webtoon.daum.net/m/webtoon/view/miseng"
             },
