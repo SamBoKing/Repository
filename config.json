@@ -7,7 +7,7 @@
   "message" : "",
   "Ad" : {
     "refresh" : 30,
-    "random" : 1,
+    "random" : 0,
     "request" : 10
   },
   "Version" : {
