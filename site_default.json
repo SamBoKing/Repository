@@ -1456,6 +1456,19 @@
               "url": "http://iplol.co.kr/m.jsp"
             }
           ]
+        },
+        {
+          "title": "킹오브파이터즈",
+          "Webs": [
+            {
+              "title": "배틀페이지",
+              "url": "http://m.battlepage.com"
+            },
+            {
+              "title" : "KOF 공식 사이트",
+              "url" : "http://kofaniv.snkplaymore.co.jp/korea/character/"
+            }
+          ]
         }
       ]
     }
