@@ -1,5 +1,5 @@
 {
-  "service" : false,
+  "service" : true,
   "password" : "1234567",
   "key" : "SamBoKing",
   "about_title" : "몽땅모아에 대하여",
