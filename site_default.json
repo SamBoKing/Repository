@@ -1454,6 +1454,18 @@
             {
               "title": "전적검색 IPLOL.NET",
               "url": "http://iplol.co.kr/m.jsp"
+            },
+            {
+              "title" : "SKT T1 Faker 동영상",
+              "url" : "http://m.youtube.com/user/fakervods/videos"
+            },
+            {
+              "title" : "Top 5 Plays",
+              "url" : "http://m.youtube.com/playlist?list=PLFCC5CE8FE38CBC93"
+            },
+            {
+              "title" : "Top 5 Fails",
+              "url" : "http://m.youtube.com/playlist?list=PLRILbAMFFjpwdH1x6BrlJ8wjSjOAziV-3"
             }
           ]
         },
