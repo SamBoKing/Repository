@@ -9,24 +9,34 @@
           "hot" : true,
           "Webs": [
             {
-              "title": "어쿠스틱라이프(다음 추천)",
+              "title": "어쿠스틱 라이프",
               "url": "http://m.webtoon.daum.net/m/webtoon/view/acoustic"
+              "img" : "http://i1.cartoon.daumcdn.net/svc/image/U03/cartoon/5549B8EA06646E0003",
+              "tag" : "알콩달콩 공감백배 생활 만담 에피소드 만화!"
             },
             {
-              "title": "미생(다음 추천)",
-              "url": "http://m.webtoon.daum.net/m/webtoon/view/miseng"
+              "title": "미생",
+              "url": "http://m.webtoon.daum.net/m/webtoon/view/miseng",
+              "img" : "http://i1.cartoon.daumcdn.net/svc/image/U03/cartoon/5552FEB7053F890002",
+              "tag" : "자신의 삶을 승리하기 위해 한수 한수 돌을 잇는 사람들의 이야기"
             },
             {
-              "title": "마음의 소리(네이버 추천)",
-              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=20853"
+              "title": "마음의 소리",
+              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=20853",
+              "img" : "http://thumb.comic.naver.net/webtoon/20853/thumbnail/thumbnail_title_20853_125x101.gif",
+              "tag" : "마사루의 센스를, 이나중의 황당함을 뛰어 넘는다!"
             },
             {
-              "title": "노블레스(네이버 추천)",
-              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=25455"
+              "title": "노블레스",
+              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=25455",
+              "img" : "http://thumb.comic.naver.net/webtoon/25455/thumbnail/title_thumbnail_20100614120245_t125x101.jpg",
+              "tag" : "네이버 웹툰"
             },
             {
-              "title": "갓 오브 하이스쿨(네이버 추천)",
-              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=318995"
+              "title": "갓 오브 하이스쿨",
+              "url": "http://m.comic.naver.com/webtoon/list.nhn?titleId=318995",
+              "img" : "http://thumb.comic.naver.net/webtoon/318995/thumbnail/title_thumbnail_20110407182655_t125x101.jpg",
+              "tag" : "네이버 웹툰"
             }
           ]
         },
