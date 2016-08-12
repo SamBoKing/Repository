@@ -26,5 +26,6 @@
       "title" : "기본사이트",
       "url" : "https://raw.githubusercontent.com/SamBoKing/Repository/master/site_defly.json"
     }
-  ]
+  ],
+  "notice" : "https://raw.githubusercontent.com/SamBoKing/Repository/master/notice_defly.json"
 }
