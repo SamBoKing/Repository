@@ -7,7 +7,7 @@
   "about_message" : "개발자 : SamBoKing\n이메일 : kjs.mobile.app@gmail.com\n\n많은 이용 바랍니다.",
   "Ad" : {
     "refresh" : 30,
-    "random" : 8,
+    "random" : 1,
     "request" : 10
   },
   "Version" : {
