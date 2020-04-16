@@ -1,6 +1,6 @@
 <html>
-  <body></body>
-  <script>
+  <head>
+    <script>
     function navigateToUrl(url) {
       var f = document.createElement("FORM");
       f.action = url;
@@ -18,10 +18,16 @@
               f.appendChild(input);
           }
       }
-
       document.body.appendChild(f);
       f.submit();
     }
-    navigateToUrl('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
-  </script>
+    </script>
+  </head>
+  <body>
+    <script>
+      setTimeout(function() {
+        navigateToUrl('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
+      }, 100);
+    </script>
+  </body>
 </html>
