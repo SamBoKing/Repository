@@ -1,7 +1,24 @@
 <script>
-  var win = window.open('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
-  setTimeout(function() {
-      alert('1111');
-      win.location.href = 'https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do?_=1';
-  }, 500);
+  function navigateToUrl(url) {
+    var f = document.createElement("FORM");
+    f.action = url;
+
+    var indexQM = url.indexOf("?");
+    if (indexQM>=0) {
+        // the URL has parameters => convert them to hidden form inputs
+        var params = url.substring(indexQM+1).split("&");
+        for (var i=0; i<params.length; i++) {
+            var keyValuePair = params[i].split("=");
+            var input = document.createElement("INPUT");
+            input.type="hidden";
+            input.name  = keyValuePair[0];
+            input.value = keyValuePair[1];
+            f.appendChild(input);
+        }
+    }
+
+    document.body.appendChild(f);
+    f.submit();
+  }
+  navigateToUrl('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
 </script>
