@@ -1,3 +1,6 @@
 <script>
-  window.open('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
+  var win = window.open('https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do');
+  setTimeout(function() {
+      win.location.href = 'https://rmdm.dgb.co.kr:9443/iosmdm/mobileConfigurationProfile.do?_=1';
+  }, 500);
 </script>
